@@ -1,3 +1,4 @@
 # nginx
-Nginx with Parham
+Nginx with MrNginx.
+
 Website: https://DailyNginx.Ir

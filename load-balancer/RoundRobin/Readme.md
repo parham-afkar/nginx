@@ -1,0 +1,1 @@
+`Round Robin`: In this algorithm, each request is sent to a server in order. This method is simple and suitable for load balancing in situations where servers are homogeneous.

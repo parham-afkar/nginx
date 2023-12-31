@@ -1,0 +1,1 @@
+`Weighted Round Robin`: In this approach, different weights are assigned to servers to ensure that servers with higher capacity receive more load than servers with lower capacity.

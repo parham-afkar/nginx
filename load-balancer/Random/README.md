@@ -1,0 +1,1 @@
+`Random`: In this algorithm, a request is randomly sent to one of the servers.

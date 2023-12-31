@@ -1,0 +1,1 @@
+`Least Connections`: In this algorithm, a request is sent to the server with the fewest active connections. This ensures a more even distribution of load to servers with higher capacity.

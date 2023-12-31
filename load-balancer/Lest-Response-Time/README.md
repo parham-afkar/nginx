@@ -1,0 +1,1 @@
+`Least Response Time`: The Least Response Time algorithm prioritizes servers with the lowest response time to handle requests.

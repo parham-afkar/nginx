@@ -1,0 +1,1 @@
+`IP Hash`: This algorithm decides which server a request should be sent to based on the IP address of the requester. This ensures that a user always connects to the same server, maintaining session data consistency across servers.
